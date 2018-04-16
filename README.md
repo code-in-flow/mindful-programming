@@ -77,7 +77,7 @@ It’s helpful to order tasks as stacks. Push and pop tasks as you discover and 
 # Mindfulness of Stress
 Similarly to our energy level, it’s easy for us to lose track of our stress level while we’re programming. We get so zoomed into what we’re doing that we often don’t notice the physical and mental stress that we accumulate throughout the day.
 
-Is this stress is a given? We assert that at least some of it isn’t. By tracking how we feel throughout the day and making small adjustments to our posture and disposition, we’re able to reduce the amount of stress that accumulates.
+Is this stress a given? We assert that at least some of it isn’t. By tracking how we feel throughout the day and making small adjustments to our posture and disposition, we’re able to reduce the amount of stress that accumulates.
 
 To take an operant example, how are you feeling right now as you read this? Are you leaning in, straining a bit as you read? Or slouching in a such way that makes you a bit less energized than if you sit up straighter? Are you holding tension in your jaw or shoulders?
 
